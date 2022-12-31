@@ -1,0 +1,4 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/TestDataFiles/ExternalData.json"". @31-12-2022 16:45:24.0135 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/TestDataFiles/ExternalData.json"". @31-12-2022 16:45:24.0136 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/TestDataFiles/ExternalData.json"". @31-12-2022 16:45:26.0805 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/TestDataFiles/ExternalData.json"". @31-12-2022 16:45:26.0806 PM
