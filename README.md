@@ -25,6 +25,8 @@
 - Implement chaining methods
 - External Test Data
 - Code is documented
+- GUI ScreenShoots
+
 
 
 ## :gear:Installation
